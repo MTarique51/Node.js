@@ -27,3 +27,5 @@
 const info = require("./Fruits");
 console.log(info);
 
+
+import {sum} from "./math.js";
